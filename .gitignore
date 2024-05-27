@@ -1,4 +1,8 @@
 embed-encrypt
 .fskey
 *.enc
+*.exe
 .vscode
+internal
+encrypted_fs.go
+copy

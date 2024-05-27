@@ -1,3 +1,3 @@
-module github.com/lu4p/embed-encrypt
+module github.com/chennqqi/embed-encrypt
 
-go 1.16
+go 1.19
